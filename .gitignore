@@ -1,0 +1,6 @@
+.devcontainer
+*.pyc
+.cache
+.coverage
+.idea/
+*.iml

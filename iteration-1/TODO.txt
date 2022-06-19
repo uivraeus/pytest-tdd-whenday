@@ -1,0 +1,7 @@
+✅ Parse input as date in ISO 6801 format
+🆕 Parse input as date/time in ISO 6801 format
+🆕 Handle missing/incorrect input
+⏸️ Support different input formats (is that hard?)
+⏸️ Echo diff relative "now" as raw time
+⏸️ Translate raw time diffs to human readable format
+⏸️ Support different languages (maybe?)
